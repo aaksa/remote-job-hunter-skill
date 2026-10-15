@@ -1,0 +1,31 @@
+{
+ "jobs": [
+  {
+   "id": 11,
+   "title": "Flutter Developer",
+   "company_name": "Acme",
+   "absolute_url": "https://job-boards.greenhouse.io/acme/jobs/11",
+   "location": {
+    "name": "Remote - Worldwide"
+   },
+   "first_published": "2026-10-13T09:00:00-04:00",
+   "updated_at": "2026-10-13T09:00:00-04:00",
+   "content": "&lt;p&gt;Flutter, Dart, Firebase. Apply on this page.&lt;/p&gt;"
+  },
+  {
+   "id": 12,
+   "title": "Office Manager",
+   "company_name": "Acme",
+   "absolute_url": "https://job-boards.greenhouse.io/acme/jobs/12",
+   "location": {
+    "name": "Berlin"
+   },
+   "first_published": "2026-10-13T09:00:00-04:00",
+   "updated_at": "2026-10-13T09:00:00-04:00",
+   "content": "&lt;p&gt;Office.&lt;/p&gt;"
+  }
+ ],
+ "meta": {
+  "total": 2
+ }
+}

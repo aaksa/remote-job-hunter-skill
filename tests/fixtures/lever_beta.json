@@ -1,0 +1,45 @@
+[
+ {
+  "id": "b1",
+  "text": "Senior Mobile Developer",
+  "workplaceType": "remote",
+  "country": "SG",
+  "createdAt": 1791800000000,
+  "categories": {
+   "location": "Remote - APAC",
+   "allLocations": [
+    "Remote - APAC"
+   ],
+   "commitment": "Full-time"
+  },
+  "hostedUrl": "https://jobs.lever.co/beta/b1",
+  "applyUrl": "https://jobs.lever.co/beta/b1/apply",
+  "description": "<p>Mobile team.</p>",
+  "lists": [
+   {
+    "text": "Requirements",
+    "content": "<li>Flutter</li><li>Dart</li>"
+   }
+  ],
+  "additional": "",
+  "salaryRange": null
+ },
+ {
+  "id": "b2",
+  "text": "Flutter Developer",
+  "workplaceType": "hybrid",
+  "country": "SG",
+  "createdAt": 1791800000000,
+  "categories": {
+   "location": "Singapore",
+   "allLocations": [
+    "Singapore"
+   ]
+  },
+  "hostedUrl": "https://jobs.lever.co/beta/b2",
+  "applyUrl": "https://jobs.lever.co/beta/b2/apply",
+  "description": "<p>Hybrid.</p>",
+  "lists": [],
+  "additional": ""
+ }
+]

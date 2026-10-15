@@ -1,0 +1,24 @@
+{
+ "jobCount": 1,
+ "jobs": [
+  {
+   "id": 5,
+   "url": "https://jobicy.com/jobs/5-flutter-engineer",
+   "jobTitle": "Flutter Engineer",
+   "companyName": "Pacific Apps",
+   "jobIndustry": [
+    "Dev"
+   ],
+   "jobType": [
+    "Full-Time"
+   ],
+   "jobGeo": "APAC",
+   "jobLevel": "Midweight",
+   "jobDescription": "<p>Flutter and Firebase. To apply, email us at jobs [at] pacificapps [dot] io with your CV.</p>",
+   "pubDate": "2026-10-15T04:30:05+00:00",
+   "salaryMin": 40000,
+   "salaryMax": 60000,
+   "salaryCurrency": "USD"
+  }
+ ]
+}

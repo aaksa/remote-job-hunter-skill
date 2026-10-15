@@ -1,0 +1,22 @@
+{
+ "id": 101,
+ "title": "Ask HN: Who is hiring? (October 2026)",
+ "children": [
+  {
+   "id": 201,
+   "author": "kilo_founder",
+   "created_at_i": 1790867000,
+   "created_at": "2026-10-01T15:03:20Z",
+   "children": [],
+   "text": "Kilo | Senior Flutter Developer | REMOTE (Worldwide) | $90k<p>We build a Flutter + Firebase banking app. Email hiring&#x40;kilo.dev or apply at <a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;kilo&#x2F;123\">https://jobs.lever.co/kilo/123</a>"
+  },
+  {
+   "id": 202,
+   "author": "onsite_only",
+   "created_at_i": 1790867100,
+   "created_at": "2026-10-01T15:05:00Z",
+   "children": [],
+   "text": "Brick | Flutter Developer | ONSITE in Boston<p>Office based."
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "remote-job-hunter-skill",
+  "description": "The remote job hunter skill for Claude Code",
+  "owner": {"name": "Aaksanurirwan"},
+  "plugins": [{"name": "remote-job-hunter-skill", "description": "Resume in, ranked remote jobs and ready-to-submit applications out.", "source": "./", "category": "productivity", "author": {"name": "Aaksanurirwan", "url": "https://github.com/aaksa"}}]
+}

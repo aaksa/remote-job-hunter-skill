@@ -1,0 +1,21 @@
+{
+ "apiVersion": "1",
+ "jobs": [
+  {
+   "id": "g1",
+   "title": "Flutter Developer (Contract)",
+   "isRemote": true,
+   "workplaceType": "Remote",
+   "location": "Remote",
+   "secondaryLocations": [],
+   "publishedAt": "2026-10-12T10:00:00.000+00:00",
+   "isListed": true,
+   "jobUrl": "https://jobs.ashbyhq.com/gamma/g1",
+   "applyUrl": "https://jobs.ashbyhq.com/gamma/g1/application",
+   "descriptionHtml": "<p>Flutter and Dart contract.</p>",
+   "compensation": {
+    "scrapeableCompensationSalarySummary": "$70K - $90K"
+   }
+  }
+ ]
+}

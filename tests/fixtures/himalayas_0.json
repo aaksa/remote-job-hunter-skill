@@ -1,0 +1,30 @@
+{
+ "offset": 0,
+ "limit": 20,
+ "totalCount": 1,
+ "jobs": [
+  {
+   "title": "Mobile Developer",
+   "companyName": "Balkan Apps",
+   "minSalary": null,
+   "maxSalary": null,
+   "currency": "EUR",
+   "seniority": [
+    "Mid-level"
+   ],
+   "locationRestrictions": [
+    "Bulgaria"
+   ],
+   "timezoneRestrictions": [
+    2
+   ],
+   "categories": [
+    "Mobile"
+   ],
+   "description": "<p>Flutter developer in Bulgaria.</p>",
+   "pubDate": 1791900000,
+   "applicationLink": "https://himalayas.app/companies/balkan-apps/jobs/mobile-developer",
+   "guid": "https://himalayas.app/companies/balkan-apps/jobs/mobile-developer"
+  }
+ ]
+}

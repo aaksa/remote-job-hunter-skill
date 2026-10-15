@@ -1,0 +1,35 @@
+{
+ "00-warning": "test",
+ "job-count": 2,
+ "jobs": [
+  {
+   "id": 1,
+   "url": "https://remotive.com/remote-jobs/software-dev/senior-flutter-developer-1",
+   "title": "Senior Flutter Developer",
+   "company_name": "Nusa Pay",
+   "tags": [
+    "flutter",
+    "dart"
+   ],
+   "job_type": "full_time",
+   "publication_date": "2026-10-14T08:00:00",
+   "candidate_required_location": "Worldwide",
+   "salary": "$60k - $80k",
+   "description": "<p>Build our Flutter app with Dart and Firebase.</p>"
+  },
+  {
+   "id": 2,
+   "url": "https://remotive.com/remote-jobs/software-dev/flutter-developer-2",
+   "title": "Flutter Developer",
+   "company_name": "Stateside Co",
+   "tags": [
+    "flutter"
+   ],
+   "job_type": "full_time",
+   "publication_date": "2026-10-13T08:00:00",
+   "candidate_required_location": "USA Only",
+   "salary": "",
+   "description": "<p>Flutter role for US residents.</p>"
+  }
+ ]
+}

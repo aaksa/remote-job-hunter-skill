@@ -1,0 +1,20 @@
+{
+  "name": "remote-job-hunter-skill",
+  "description": "Give Claude your resume once: it deep-searches remote job boards, Hacker News and hidden company job pages, ranks every job by match and post date, tailors your resume per job without inventing anything, and fills applications up to Submit.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aaksanurirwan",
+    "url": "https://github.com/aaksa"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "remote-jobs",
+    "job-search",
+    "resume",
+    "job-application"
+  ],
+  "repository": "https://github.com/aaksa/remote-job-hunter-skill",
+  "homepage": "https://github.com/aaksa/remote-job-hunter-skill"
+}

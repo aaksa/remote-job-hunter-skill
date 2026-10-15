@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>We Work Remotely</title>
+<item><title>Acme: Flutter Developer</title><region>Anywhere in the World</region><country></country><state></state>
+<skills>Flutter, Dart</skills><category>Programming</category><type>Full-Time</type>
+<description>&lt;p&gt;Flutter and Dart role at Acme.&lt;/p&gt;</description>
+<pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate><guid>https://weworkremotely.com/remote-jobs/acme-flutter-developer</guid>
+<link>https://weworkremotely.com/remote-jobs/acme-flutter-developer</link></item>
+<item><title>Acme: Sales Manager</title><region>Anywhere in the World</region><country></country><state></state>
+<skills>Sales</skills><category>Sales</category><type>Full-Time</type>
+<description>&lt;p&gt;Sell our Flutter tooling.&lt;/p&gt;</description>
+<pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate><guid>https://weworkremotely.com/remote-jobs/acme-sales</guid>
+<link>https://weworkremotely.com/remote-jobs/acme-sales</link></item>
+</channel></rss>
